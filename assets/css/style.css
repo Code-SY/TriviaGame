@@ -1,0 +1,25 @@
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2019/05/30/16/27/landscape-4240168_1280.jpg');
+    background-image: 100%;
+    text-align: center;
+}
+.text-muted{
+    font-family: 'Rouge Script', cursive;
+    font-size: 15em;
+    color: red;
+    -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
+    animation: mymove 5s infinite;
+  }
+  /* Safari 4.0 - 8.0 */
+  @-webkit-keyframes mymove {
+    50% {color: yellow;}
+  }
+  @keyframes mymove {
+    50% {color:yellow;} 
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
