@@ -5,7 +5,7 @@ body{
 }
 .text-muted{
     font-family: 'Rouge Script', cursive;
-    font-size: 15em;
+    font-size: 10em;
     color: red;
     -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
     animation: mymove 5s infinite;

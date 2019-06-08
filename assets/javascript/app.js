@@ -130,7 +130,7 @@ $(document).ready(function() {
       else if (game.currentSet === Object.keys(game.questions).length) {
         // adds results of game (correct, incorrect, unanswered) to the page
         $("#results").html(
-          "<h3>Thank you for playing!</h3>" +
+          "<h3 style='color:blue;'>Thank you for playing!</h3>" +
             "<p>Correct: " +
             game.correct +
             "</p>" +

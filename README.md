@@ -7,13 +7,13 @@ I set up 15 seconds timer for each question.
 # Prerequisites
 There is no prerequisites for this game.
 
-#Installation
+# Installation
 There are no installation steps.
 
 # Testing
 I do not have any automated unit tests. I did manual testing. I came up with several test cases I tested manualy. I used web browser's development tools to debug javascript execution.
 
-#Deployment
+# Deployment
 I pushed all git changes to github and configured the web site pointing to the root of the repository.
 
 # Tools, Technologies, Languages
