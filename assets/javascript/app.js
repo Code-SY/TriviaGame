@@ -193,9 +193,7 @@ var game = {
       game.incorrect++;
       clearInterval(game.timerId);
       resultId = setTimeout(game.guessResult, 2000);
-      $("#results").html(
-        "<h3>Better luck next time!</h3>"
-      );
+      $("#results").html("<h3>Better luck next time!</h3>");
     }
   },
   // method to remove previous question results and options

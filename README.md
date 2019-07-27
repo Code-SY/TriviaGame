@@ -18,3 +18,6 @@ I pushed all git changes to github and configured the web site pointing to the r
 
 # Tools, Technologies, Languages
 I have built this game with plain HTML, CSS,Bootstrap, Javascript and JQuery. I have used VS Code.
+
+
+![Trivia](assets/images/screen.png)
